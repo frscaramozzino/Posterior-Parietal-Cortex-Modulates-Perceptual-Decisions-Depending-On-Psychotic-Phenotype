@@ -1,0 +1,8 @@
+# Large simulation data files
+heavy_files/
+
+# Other common things to ignore
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
